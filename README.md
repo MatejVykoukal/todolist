@@ -9,6 +9,7 @@ This is one of my first applications created using frontend framework. It is bas
 
 ## Used Technologies
 Core of application is [React.js](https://reactjs.org/) and [Typescript](https://www.typescriptlang.org/).
+
 For styles is used common css.
 
 ## Live demo version
