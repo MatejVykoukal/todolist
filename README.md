@@ -1,5 +1,7 @@
 # Todolist App
 
+![screenshot of todolist application](https://user-images.githubusercontent.com/61636415/140415252-1e880b2c-bc82-4d21-ba60-cf23762269d0.PNG)
+
 ## Introduction
 This is one of my first applications created using frontend framework. It is basic todolist application with a few following features:
 - Add todo
